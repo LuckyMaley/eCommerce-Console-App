@@ -1,0 +1,798 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64C7FFE-9936-43CF-8735-971B95BA0907}|eCommerceProject\\eCommerceProject.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64C7FFE-9936-43CF-8735-971B95BA0907}|eCommerceProject\\eCommerceProject.csproj|solutionrelative:ecommerceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\customersrepository_extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\customersrepository_extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\repositorytests\\adminmenuoptionstests\\orderdetailoptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositorytests\\adminmenuoptionstests\\orderdetailoptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\menuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\menuoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\customeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\customeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\productoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\productoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\adminoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\adminoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\categoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\categoryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\paymentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\paymentoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\orderdetailoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\orderdetailoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\orderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\orderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\paymentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\repositorytests\\adminmenuoptionstests\\orderoptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositorytests\\adminmenuoptionstests\\orderoptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\repositorytests\\adminmenuoptionstests\\customeroptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositorytests\\adminmenuoptionstests\\customeroptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\repositorytests\\adminmenuoptionstests\\adminoptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositorytests\\adminmenuoptionstests\\adminoptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\maincodestaticobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\maincodestaticobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\repositorytests\\shoppingcarttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositorytests\\shoppingcarttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\wishlistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\wishlistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\repositorytests\\adminmenuoptionstests\\categoryoptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\repositorytests\\adminmenuoptionstests\\categoryoptionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\maincode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\maincode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\customermenuoptions\\cartoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\customermenuoptions\\cartoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\menuoptions _extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\menuoptions _extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\wishlistoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\wishlistoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\reviewoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\reviewoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\adminmenuoptions\\shippingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\adminmenuoptions\\shippingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C8F438F-82DF-4F8A-AC9E-35AD5BED4248}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\shippingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\shippingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|c:\\users\\mmmm\\documents\\visualstudioworkspace\\week3oodproject\\llm_ecommerce_ood3\\maincode\\repository\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749CD2AF-226E-44BA-A93A-5382C50C0628}|MainCode\\MainCode.csproj|solutionrelative:maincode\\repository\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Customer.cs",
+              "RelativeToolTip": "MainCode\\Models\\Customer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:31.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\AdminOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\AdminOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\AdminOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\AdminOptions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:20:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MenuOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\MenuOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MenuOptions.cs",
+              "RelativeToolTip": "MainCode\\MenuOptions.cs",
+              "ViewState": "AQIAAMoCAAAAAAAAAAAYwNoCAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:14:50.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Wishlist.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Wishlist.cs",
+              "RelativeToolTip": "MainCode\\Models\\Wishlist.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:20:12.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Shipping.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Shipping.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Shipping.cs",
+              "RelativeToolTip": "MainCode\\Models\\Shipping.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:20:07.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminsRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv8QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:17:14.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CategoriesRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\CategoriesRepository.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:17:33.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "MainCode\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:41.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\eCommerceProject\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerceProject\\Program.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\eCommerceProject\\Program.cs",
+              "RelativeToolTip": "eCommerceProject\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:08:21.818Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Category.cs",
+              "RelativeToolTip": "MainCode\\Models\\Category.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Review.cs",
+              "RelativeToolTip": "MainCode\\Models\\Review.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:55.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Order.cs",
+              "RelativeToolTip": "MainCode\\Models\\Order.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:37.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Payment.cs",
+              "RelativeToolTip": "MainCode\\Models\\Payment.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Admin.cs",
+              "RelativeToolTip": "MainCode\\Models\\Admin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MainCode\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Models\\Product.cs",
+              "RelativeToolTip": "MainCode\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\CustomersRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CustomersRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\CustomersRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:17:39.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomersRepository_extension.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CustomersRepository_extension.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\CustomersRepository_extension.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CustomersRepository_extension.cs",
+              "RelativeToolTip": "MainCode\\Repository\\CustomersRepository_extension.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwIkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:17:48.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailOptionTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderDetailOptionTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderDetailOptionTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderDetailOptionTests.cs",
+              "RelativeToolTip": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderDetailOptionTests.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA9wAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:06:09.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\ProductOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\ProductOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\ProductOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\ProductOptions.cs",
+              "ViewState": "AQIAAJ0BAAAAAAAAAAAuwLcBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:23:54.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\CategoryOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\CategoryOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\CategoryOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\CategoryOptions.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:22:41.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\IRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:17:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "MainCode\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\CustomerOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\CustomerOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\CustomerOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\CustomerOptions.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAkwMoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:22:59.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\OrderDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\OrderDetailsRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:05.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetailOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\OrderDetailOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\OrderDetailOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\OrderDetailOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\OrderDetailOptions.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:23:20.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\PaymentOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\PaymentOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\PaymentOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\PaymentOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:23:44.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\OrderOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\OrderOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\OrderOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\OrderOptions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:23:34.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\OrdersRepository.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:12.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\PaymentsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\PaymentsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\PaymentsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\PaymentsRepository.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:19.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderOptionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderOptionsTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderOptionsTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderOptionsTests.cs",
+              "RelativeToolTip": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\OrderOptionsTests.cs",
+              "ViewState": "AQIAAEEBAAAAAAAAAAA8wF4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:29:11.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerOptionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CustomerOptionsTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CustomerOptionsTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CustomerOptionsTests.cs",
+              "RelativeToolTip": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CustomerOptionsTests.cs",
+              "ViewState": "AQIAALoBAAAAAAAAAAAuwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T17:28:16.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminOptionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\AdminOptionsTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\AdminOptionsTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\AdminOptionsTests.cs",
+              "RelativeToolTip": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\AdminOptionsTests.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswAEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:58:57.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\ProductsRepository.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainCodeStaticObjects.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MainCodeStaticObjects.cs",
+              "RelativeDocumentMoniker": "MainCode\\MainCodeStaticObjects.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MainCodeStaticObjects.cs",
+              "RelativeToolTip": "MainCode\\MainCodeStaticObjects.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:44:48.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ILogin.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\ILogin.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ILogin.cs",
+              "RelativeToolTip": "MainCode\\Repository\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:16:56.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShoppingCartTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\ShoppingCartTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\RepositoryTests\\ShoppingCartTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\ShoppingCartTests.cs",
+              "RelativeToolTip": "UnitTests\\RepositoryTests\\ShoppingCartTests.cs",
+              "ViewState": "AQIAAN0BAAAAAAAAAAAAAJIBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:26:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WishlistsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\WishlistsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\WishlistsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\WishlistsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\WishlistsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ShoppingCart.cs",
+              "RelativeToolTip": "MainCode\\Repository\\ShoppingCart.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:13:06.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryOptionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CategoryOptionsTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CategoryOptionsTests.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CategoryOptionsTests.cs",
+              "RelativeToolTip": "UnitTests\\RepositoryTests\\AdminMenuOptionsTests\\CategoryOptionsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:52:45.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainCode",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MainCode.csproj",
+              "RelativeDocumentMoniker": "MainCode\\MainCode.csproj",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MainCode.csproj",
+              "RelativeToolTip": "MainCode\\MainCode.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-05T07:18:08.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CustomerMenuOptions\\CartOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\CustomerMenuOptions\\CartOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\CustomerMenuOptions\\CartOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\CustomerMenuOptions\\CartOptions.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAowJ4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:20:24.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MenuOptions _extension.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MenuOptions _extension.cs",
+              "RelativeDocumentMoniker": "MainCode\\MenuOptions _extension.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\MenuOptions _extension.cs",
+              "RelativeToolTip": "MainCode\\MenuOptions _extension.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:15:34.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WishlistOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\WishlistOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\WishlistOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\WishlistOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\WishlistOptions.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwEoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:25:03.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShippingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\ShippingOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\ShippingOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\ShippingOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\ShippingOptions.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAkwHUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:24:20.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReviewOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\ReviewOptions.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\AdminMenuOptions\\ReviewOptions.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\AdminMenuOptions\\ReviewOptions.cs",
+              "RelativeToolTip": "MainCode\\Repository\\AdminMenuOptions\\ReviewOptions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAFoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:24:06.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UnitTests.csproj",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\UnitTests.csproj",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTests.csproj",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\UnitTests\\UnitTests.csproj",
+              "RelativeToolTip": "UnitTests\\UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T09:18:49.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ShippingsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ShippingsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\ShippingsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ShippingsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\ShippingsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:58.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReviewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ReviewsRepository.cs",
+              "RelativeDocumentMoniker": "MainCode\\Repository\\ReviewsRepository.cs",
+              "ToolTip": "C:\\Users\\mmmm\\Documents\\VisualStudioWorkspace\\Week3OODProject\\LLM_eCommerce_OOD3\\MainCode\\Repository\\ReviewsRepository.cs",
+              "RelativeToolTip": "MainCode\\Repository\\ReviewsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:18:48.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\bin\Debug\net6.0\MainCode.deps.json
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\bin\Debug\net6.0\MainCode.dll
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\bin\Debug\net6.0\MainCode.pdb
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.AssemblyInfoInputs.cache
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.AssemblyInfo.cs
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.csproj.CoreCompileInputs.cache
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.dll
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\refint\MainCode.dll
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.pdb
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\ref\MainCode.dll
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\bin\Debug\net6.0\MainCode.xml
+C:\Users\mmmm\Documents\VisualStudioWorkspace\Week3OODProject\LLM_eCommerce_OOD3\MainCode\obj\Debug\net6.0\MainCode.xml
